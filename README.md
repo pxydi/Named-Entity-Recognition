@@ -6,7 +6,6 @@ The dataset is imbalanced.
 
 <p align="center"><img src="src/Class_imbalance.png" style="width:400px; height:260px;"></p>
 
-
 * The most common named entity class is `O` (84.5% tokens).
 * The least common named entity class is I-MISC (0.5% tokens).
 
@@ -68,4 +67,5 @@ When we train a NER system, the most common evaluation method is to measure prec
 
 This evaluation metrics used below go beyond a simple token/tag based schema, and consider different scenarios based on whether all the tokens that belong to a named entity were classified or not, and also whether the correct entity type was assigned.
 
-![Full performance test Figure](src/full_performance.png)
+<p align="center"><img src="src/full_performance.png" style="width:400px; height:260px;"></p>
+
