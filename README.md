@@ -4,7 +4,7 @@ In this notebook I train a model for Named Entity Recognition using a toy datase
 
 The dataset is imbalanced. 
 
-![Class imbalance Figure](src/Class_imbalance.png)
+<p align="center"><img src="src/Class_imbalance.png" style="width:400px; height:260px;"></p>
 
 
 * The most common named entity class is `O` (84.5% tokens).
